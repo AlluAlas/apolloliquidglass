@@ -13,3 +13,5 @@ This method was made possible thanks to [ryannair05](https://github.com/JeffreyC
    install_name_tool -delete_rpath "@executable_path/Frameworks" Apollo.app/Apollo
 
 4. Compress the Payload folder again, rename from .zip to .ipa, and sideload it.
+
+*Using Compact Mode or collapsing comments with images can cause crashing.
