@@ -8,6 +8,7 @@ This method was made possible thanks to [ryannair05](https://github.com/JeffreyC
 3. Open **Terminal**, `cd` into the extracted `Payload` folder, and run:  
 
    ```bash
+   codesign --remove-signature Apollo.app/Apollo
    vtool -set-build-version ios 15.0 19.0 -replace -output Apollo.app/Apollo Apollo.app/Apollo
    install_name_tool -delete_rpath "@executable_path/Frameworks" Apollo.app/Apollo
 
