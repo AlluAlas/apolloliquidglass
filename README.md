@@ -14,4 +14,4 @@ This method was made possible thanks to [ryannair05](https://github.com/JeffreyC
 
 4. Compress the Payload folder again, rename from .zip to .ipa, and sideload it.
 
-*Using Compact Mode or collapsing comments with images can cause crashing.
+### Using Compact Mode or collapsing comments with images can cause crashing.
