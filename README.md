@@ -1,6 +1,6 @@
 # Balackburn's Apollo with Liquid Glass
 
-This method was made possible thanks to [ryannair05](https://github.com/ryannair05](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/issues/63) who explained how he achieved this with Apollo on iOS 26 beta 2. I simply made the IPA file for you all and using the latest version.
+This method was made possible thanks to [ryannair05](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/issues/63) who explained how he achieved this with Apollo on iOS 26 beta 2. I simply made the IPA file for you all and using the latest version.
 
 ### Steps to replicate:
 1. Download the latest Apollo IPA from [Balackburn](https://github.com/Balackburn/Apollo/releases).  
