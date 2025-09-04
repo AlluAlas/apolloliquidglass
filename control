@@ -1,0 +1,9 @@
+Package: com.dankrichtofen.apollofix
+Name: ApolloFix
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Description: Fix for Apollo crashing
+Maintainer: DankRichtofen
+Author: DankRichtofen
+Section: Tweaks
+Version: 1.0.0-1
