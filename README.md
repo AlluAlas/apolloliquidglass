@@ -13,3 +13,5 @@ This method was made possible thanks to [ryannair05](https://github.com/JeffreyC
    install_name_tool -delete_rpath "@executable_path/Frameworks" Apollo.app/Apollo
 
 4. Compress the Payload folder again, rename from .zip to .ipa, and sideload it.
+
+I also created and included a tweak as a fix for the constant crashes when using Compact Mode and collapsing comments with images. It should be more stable now. If anyone knows Balackburn, tell him I’d like him to take a look at this so that, if he wants, he can implement it in his app and everyone can enjoy this together instead of being split.
